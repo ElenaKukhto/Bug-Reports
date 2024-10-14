@@ -1,1 +1,1 @@
-# Bug-Reports
+[ComiCoin bugReports](https://docs.google.com/spreadsheets/d/1DlrYr-xFbcGxgEPtjJxNOgByfIiA2kooRkRaglkbxn4/edit?usp=sharing)
